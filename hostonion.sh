@@ -57,7 +57,7 @@ echo -e $'\e[1;33m[\e[0m\e[1;77m HostOnion \e[0m\e[1;33m]\e[0m\e[1;32m ## Starti
                   php -S 127.0.0.1:8080 > /dev/null 2>&1 &
                   sleep 3
 echo -e "\033[1;95mPhp server is up"
-echo -e "\033[1;96mYou can check your sever by accessing localhost:8080"
+echo -e "\033[1;96mYou can check your server by accessing localhost:8080"
 #-----------------------------------------------
 sleep 1
 echo -e $'\e[1;33m[\e[0m\e[1;77m HostOnion \e[0m\e[1;33m]\e[0m\e[1;32m # Configuring Files ! \e[0m'
