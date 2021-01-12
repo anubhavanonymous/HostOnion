@@ -3,7 +3,7 @@
 * `Host A Hidden Service on TOR with an Onion Address !`
 
 ## Disclaimer
-*This tool is for educational purposes only !*
+*This tool is for educational purposes only !* <br><br/>
 *I will not be responsible for any misuse*
 
 ## Usage
