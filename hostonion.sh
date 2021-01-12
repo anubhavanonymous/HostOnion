@@ -50,7 +50,6 @@ fi
 echo ""                                                                                                                              echo ""                                                                                                                              php="$(ps -efw | grep php | grep -v grep | awk '{print $2}')"                                                                        ngrok="$(ps -efw | grep ngrok | grep -v grep | awk '{print $2}')"
 kill -9 $php > /dev/null 2>&1
 kill -9 $tor > /dev/null 2>&1
-kill -9 $ngrok > /dev/null 2>&1
 
 echo ""
 echo -e $'\e[1;33m[\e[0m\e[1;77m HostOnion \e[0m\e[1;33m]\e[0m\e[1;32m ## Starting Php Server \e[0m'
