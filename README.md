@@ -8,7 +8,7 @@
 *This tool is for educational purposes only !*<br />
 *I will not be responsible for any misuse*
 
-##✨Usage
+## ✨Usage
 
 ```bash
 git clone https://github.com/anubhavanonymous/HostOnion
@@ -21,7 +21,7 @@ cd HostOnion
 ```bash
 bash hostonion.sh
 ```
-## ⚠️Note
+## Note
 * `This tool is for termux users only!`
 
 
