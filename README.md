@@ -1,4 +1,4 @@
-# 🐺HostOnion
+# HostOnion !
 <img src="PicsArt_01-11-06.54.19.jpg"><br>
 * `Host A Hidden Service on TOR with an Onion Address !`
 
@@ -8,7 +8,7 @@
 *This tool is for educational purposes only !*<br />
 *I will not be responsible for any misuse*
 
-## ✨Usage
+## Usage
 
 ```bash
 git clone https://github.com/anubhavanonymous/HostOnion
