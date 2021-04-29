@@ -1,7 +1,7 @@
 <p align="center">
 <img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge">
 
-# HostOnion !
+# HostOnion 🐺
 <img src="PicsArt_01-11-06.54.19.jpg"><br>
 * `HostOnion Enables Termux users to Host A Hidden Service on TOR with an Onion Address !`
 
