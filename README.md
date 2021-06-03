@@ -1,4 +1,4 @@
-<h1 align="center">HostOnion
+<h1 align="center">
 <img src="PicsArt_01-11-06.54.19.jpg"><br>
 </h1>
 
