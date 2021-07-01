@@ -3,7 +3,7 @@
 </h1>
 
 * `HostOnion Enables Termux users to Host A Hidden Service on TOR with an Onion Address !`
-* `This Shell Script uses your device as a server and hosts the webpage on Darkweb Temporarily with an unique onion url`
+* `This Shell Script uses your device as a server and hosts the webpage on Deepweb Temporarily with an unique onion url`
 
 ## Disclaimer
 *This tool is for educational purposes only !*<br />
