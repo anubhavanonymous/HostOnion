@@ -27,6 +27,6 @@ bash hostonion.sh
 
 
 ## 💡Pro tip 
-* `Replace the HTML file with your own to get your webpage hosted on Darkweb !!`
+* `Replace the HTML file with your own to get your webpage hosted on Deepweb !!`
 
 
