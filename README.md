@@ -29,7 +29,7 @@ Your device becomes a temporary Deep Web server while the script is running.
 - Fully rewritten in **Python 3**
 - Cleaner process handling
 - Custom site folder support
-- Full PHP support retained
+- Full PHP support (not just static sites)
 - Optional custom port selection (`--port`)
 - Auto free-port detection
 - Easy onion reset (`--new`)
