@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="PicsArt_01-11-06.54.19.jpg"><br>
+<img src="logo.jpg"><br>
 </h1>
 
 # 🧅 HostOnion v2.5
