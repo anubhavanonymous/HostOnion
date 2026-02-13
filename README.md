@@ -23,14 +23,7 @@ Your device becomes a temporary Deep Web server while the script is running.
 
 ---
 
-## 🔄 What Changed (Old vs New)
-
-### 🧾 Previous Version
-- Shell script (`hostonion.sh`)
-- Mainly for Termux
-- Template-based HTML hosting
-- Manual onion handling
-- Basic PHP support
+## 🔄 What Changed
 
 ### 🐍 Current Version (v2.5)
 - Fully rewritten in **Python 3**
@@ -108,6 +101,7 @@ This tool is for educational purposes only ! I will not be responsible for any m
 ## 👨‍💻 Author
 ### Anubhav Kashyap
 • Github : https://github.com/anubhavanonymous
+
 • Telegram : https://t.me/anubhavanonymous
 
 
