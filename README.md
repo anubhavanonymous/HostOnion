@@ -71,6 +71,17 @@ python3 hostonion.py your_site_folder --new
 ```
 Press CTRL+C to stop the service
 
+## 🔹 Example Output
+```bash
+🧅 HostOnion v2.5 - PHP + CLI + Reset
+
+[+] Starting PHP server on port 9000 (folder: example_site)...
+[+] Starting Tor hidden service...
+
+[+] Onion URL: http://xxxxxxxxxxxxxxxx.onion
+[+] PHP running on port 9000
+[+] Press CTRL+C to stop.
+```
 ## 🧠 How It Works
 1. Starts PHP built-in server on localhost
 
