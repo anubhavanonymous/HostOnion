@@ -21,6 +21,8 @@ tor_proc = None
 def banner():
     os.system("clear")
     print("\033[1;92m🧅 HostOnion v2.5 - PHP + CLI + Reset\033[0m\n")
+    print("\033[1;94mAuthor: Anubhav Kashyap")
+    print("\033[1;94mGitHub: github.com/anubhavanonymous | Telegram: @anubhavanonymous\033[0m\n")
 
 # -------------------- UTIL --------------------
 def create_dirs():
