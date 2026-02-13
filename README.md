@@ -61,6 +61,10 @@ cd HostOnion
 ```bash
 python3 hostonion.py your_site_folder
 ```
+#### I've added an example template 
+```bash
+python3 hostonion.py examplesite
+```
 ### Custom Port
 ```bash
 python3 hostonion.py your_site_folder --port 8080
@@ -74,6 +78,8 @@ Press CTRL+C to stop the service
 ## 🔹 Example Output
 ```bash
 🧅 HostOnion v2.5 - PHP + CLI + Reset
+
+Author: Anubhav Kashyap                                                                 GitHub: github.com/anubhavanonymous | Telegram: @anubhavanonymous
 
 [+] Starting PHP server on port 9000 (folder: example_site)...
 [+] Starting Tor hidden service...
