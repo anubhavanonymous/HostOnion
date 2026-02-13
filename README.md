@@ -106,9 +106,9 @@ This tool is for educational purposes only ! I will not be responsible for any m
 • Service runs temporarily while script is active
 
 ## 👨‍💻 Author
-Anubhav Kashyap
-https://github.com/anubhavanonymous
-https://t.me/anubhavanonymous
+### Anubhav Kashyap
+• Github : https://github.com/anubhavanonymous
+• Telegram : https://t.me/anubhavanonymous
 
 
 
