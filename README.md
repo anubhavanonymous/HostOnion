@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo.jpg" alt="HostOnion Logo" width="120"/>
+<img src="logo.jpg" alt="HostOnion Logo"/>
 
 # 🧅 HostOnion
 
