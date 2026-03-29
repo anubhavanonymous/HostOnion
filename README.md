@@ -6,8 +6,8 @@
 
 **Host a Hidden Service on Tor with a `.onion` Address — from your terminal.**
 
-![Stars](https://img.shields.io/github/stars/anubhavanonymous/Tele-Trace?style=for-the-badge&color=ff00ff&labelColor=000000)
-![Forks](https://img.shields.io/github/forks/anubhavanonymous/Tele-Trace?style=for-the-badge&color=00bfff&labelColor=000000)
+![Stars](https://img.shields.io/github/stars/anubhavanonymous/HostOnion?style=for-the-badge&color=ff00ff&labelColor=000000)
+![Forks](https://img.shields.io/github/forks/anubhavanonymous/HostOnion?style=for-the-badge&color=00bfff&labelColor=000000)
 
 ![License](https://img.shields.io/badge/License-MIT-00ff9c?style=for-the-badge&labelColor=000000)
 
