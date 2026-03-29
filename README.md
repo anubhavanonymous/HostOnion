@@ -8,7 +8,6 @@
 
 ![Stars](https://img.shields.io/github/stars/anubhavanonymous/HostOnion?style=for-the-badge&color=ff00ff&labelColor=000000)
 ![Forks](https://img.shields.io/github/forks/anubhavanonymous/HostOnion?style=for-the-badge&color=00bfff&labelColor=000000)
-
 ![License](https://img.shields.io/badge/License-MIT-00ff9c?style=for-the-badge&labelColor=000000)
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
