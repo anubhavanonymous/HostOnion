@@ -6,17 +6,27 @@
 
 **Host a Hidden Service on Tor with a `.onion` Address — from your terminal.**
 
-![Stars](https://img.shields.io/github/stars/anubhavanonymous/HostOnion?style=for-the-badge&logo=github&logoColor=white&color=ff00ff&labelColor=0d1117)
-![Forks](https://img.shields.io/github/forks/anubhavanonymous/HostOnion?style=for-the-badge&logo=github&logoColor=white&color=00bfff&labelColor=0d1117)
-![License](https://img.shields.io/github/license/anubhavanonymous/HostOnion?style=for-the-badge&logo=open-source-initiative&logoColor=white&color=00ff9c&labelColor=0d1117)
+<p align="center">
 
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
-![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=000000)
+<img src="https://img.shields.io/github/stars/anubhavanonymous/HostOnion?style=flat&logo=github&color=ff00ff" />
+<img src="https://img.shields.io/github/forks/anubhavanonymous/HostOnion?style=flat&logo=git&color=00bfff" />
+<img src="https://img.shields.io/github/license/anubhavanonymous/HostOnion?style=flat&logo=open-source-initiative&color=00ff9c" />
 
-![Linux](https://img.shields.io/badge/Linux-Supported-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=000000)
-![Termux](https://img.shields.io/badge/Termux-Ready-000000?style=for-the-badge&logo=android&logoColor=white&color=00ff9c)
+<br>
 
-![TOR](https://img.shields.io/badge/Powered%20By-TOR-7D4698?style=for-the-badge&logo=torproject&logoColor=white&labelColor=000000)
+<img src="https://img.shields.io/badge/Python-3.x-3776AB?style=flat&logo=python" />
+<img src="https://img.shields.io/badge/PHP-8.x-777BB4?style=flat&logo=php" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Linux-Supported-FCC624?style=flat&logo=linux" />
+<img src="https://img.shields.io/badge/Termux-Ready-000000?style=flat&logo=android&logoColor=white" />
+
+<br>
+
+<img src="https://img.shields.io/badge/TOR-Network-7D4698?style=flat&logo=torproject&logoColor=white" />
+
+</p>
 
 </div>
 
