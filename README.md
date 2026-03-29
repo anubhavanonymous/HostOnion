@@ -6,12 +6,18 @@
 
 **Host a Hidden Service on Tor with a `.onion` Address — from your terminal.**
 
-[![Stars](https://img.shields.io/github/stars/anubhavanonymous/HostOnion?style=for-the-badge&color=purple)](https://github.com/anubhavanonymous/HostOnion/stargazers)
-[![Forks](https://img.shields.io/github/forks/anubhavanonymous/HostOnion?style=for-the-badge&color=blue)](https://github.com/anubhavanonymous/HostOnion/forks)
-[![License](https://img.shields.io/github/license/anubhavanonymous/HostOnion?style=for-the-badge&color=green)](LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Platform](https://img.shields.io/badge/Platform-Termux%20%7C%20Linux-black?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/anubhavanonymous/HostOnion)
-[![Tor](https://img.shields.io/badge/Powered%20by-Tor-7D4698?style=for-the-badge&logo=torproject&logoColor=white)](https://www.torproject.org/)
+[![Stars]![Stars](https://img.shields.io/github/stars/anubhavanonymous/Tele-Trace?style=for-the-badge&color=ff00ff&labelColor=000000)
+![Forks](https://img.shields.io/github/forks/anubhavanonymous/Tele-Trace?style=for-the-badge&color=00bfff&labelColor=000000)
+
+![License](https://img.shields.io/badge/License-MIT-00ff9c?style=for-the-badge&labelColor=000000)
+
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
+![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=000000)
+
+![Linux](https://img.shields.io/badge/Linux-Supported-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=000000)
+![Termux](https://img.shields.io/badge/Termux-Ready-000000?style=for-the-badge&logo=android&logoColor=white&color=00ff9c)
+
+![TOR](https://img.shields.io/badge/Powered%20By-TOR-7D4698?style=for-the-badge&logo=torproject&logoColor=white&labelColor=000000)
 
 </div>
 
