@@ -93,6 +93,7 @@ Author: Anubhav Kashyap                                                         
 <p align="center">
   <img src="screenshot.png" alt="Tele-Trace Intelligence Banner" width="100%">
 </p>
+
 ## 🧠 How It Works
 1. Starts PHP built-in server on localhost
 
